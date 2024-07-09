@@ -1,0 +1,10 @@
+### Contiene un cliente con sus datos de usuario.
+class: Cliente
+table: cliente
+fields:
+  ### The client's content.
+  names: String
+  phone: int
+  email: String
+  address: String
+  registered: DateTime

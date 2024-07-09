@@ -1,0 +1,10 @@
+clientes:
+  - create:
+  - delete:
+  - alter:
+  - getAll:
+  - getLimiter:
+  - getTotalPages:
+  - getSearch:
+example:
+  - hello:
