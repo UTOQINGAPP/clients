@@ -7,16 +7,16 @@
 # https://docs.serverpod.dev/
 
 # The Project ID from the Google Cloud Console.
-project = "<GOOGLE CLOUD PROJECT ID>"
+project = "clientsalter"
 
 # The service account email address authorized by your Google Cloud Console.
-service_account_email = "<SERVICE ACCOUNT EMAIL>"
+service_account_email = "adminredes@clientsalter.iam.gserviceaccount.com"
 
 # The name of your DNS zone.
-dns_managed_zone = "<MANAGED ZONE>"
+dns_managed_zone = "utoqingapp"
 
 # The top domain of your DNS zone. e.g. "examplepod.com"
-top_domain = "<YOUR DOMAIN NAME>"
+top_domain = "utoqingapp.com"
 
 # The region and zone to use for the deployment. Default values work.
 region = "us-central1"
